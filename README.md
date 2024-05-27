@@ -1,2 +1,1 @@
-# BadGesOverview
-printf("Hello world");
+# Hello My name Vu Trung Nghia
