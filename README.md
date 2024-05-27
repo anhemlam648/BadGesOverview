@@ -1,1 +1,1 @@
-# Hello My name Vu Trung Nghia
+# Hello Vu Trung Nghia
